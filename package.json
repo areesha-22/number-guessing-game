@@ -1,0 +1,27 @@
+{
+  "name": "t495number-guessing-game",
+  "version": "1.0.0",
+  "description": "It is anumber guessing game, the  program generate different numbers, the user guesses a random number if user guess right number it will won the game.",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areesha-22/number-guessing-game.git"
+  },
+  "author": "AREESHA ABDULRAHIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/areesha-22/number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/areesha-22/number-guessing-game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
